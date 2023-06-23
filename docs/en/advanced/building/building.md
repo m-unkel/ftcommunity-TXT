@@ -24,6 +24,7 @@ Open a terminal (on Ubuntu: right-click on desktop and select â€œOpen terminalâ€
 
 ``````````sudo apt-get install git``````````  
 ``````````sudo apt-get install mercurial``````````  
+``````````sudo apt-get install subversion``````````  
 *(Note: These are the commands for Ubuntu and other distributions using apt as package management tool. Your distribution might use different tools to install missing packages.)*
 
 ## Building the ftcommunity-TXT-firmware from the sources

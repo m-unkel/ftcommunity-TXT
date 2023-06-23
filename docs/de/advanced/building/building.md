@@ -24,6 +24,7 @@ Der Build-Prozess erfordert Mercurial, um die Quelldateien für die Firmware zu 
 
 ``````````sudo apt-get install git``````````  
 ``````````sudo apt-get install mercurial``````````  
+``````````sudo apt-get install subversion``````````  
 *(Hinweis: Dies sind die Befehle für Ubuntu und andere Distributionen, die apt als Paketverwaltungstool verwenden. Deine Distribution verwendet möglicherweise andere Tools, um fehlende Pakete zu installieren.)*
 
 ## Aufbau der ftcommunity-TXT-Firmware aus den Quellen
